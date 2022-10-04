@@ -1,0 +1,11 @@
+Final Project Report:
+
+I have been able to complete the Room and Reservation modules successfully, having passed all the tests on CodePost
+and those from the PDF examples.
+
+I have passed all the tests in the Hotel module except for load_hotel. The load_hotel method gave me
+the right information except the reservation dates that were incorrect.
+
+Since the Booking module relies on the load_hotel method, I have not been able to do it.
+Final Project Report:
+ 
